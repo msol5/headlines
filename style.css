@@ -1,0 +1,13 @@
+.grid-container {
+    display: flex;
+    flex-wrap:wrap;
+    margin: 0px;
+    position:fixed;
+    align-items:flex-start;
+    align-content: flex-start;
+    justify-content:space-around;
+  }
+  img {
+      max-width:100%; max-height:125px;
+      align-self:center;
+  }
