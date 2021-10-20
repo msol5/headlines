@@ -8,7 +8,7 @@ function randomize() {
         picList[3]='<div class="grid-item"><img src="cope/4.gif"></img></div>'
         picList[4]='<div class="grid-item"><img src="cope/5.jpg"></img></div>'
         picList[5]='<div class="grid-item"><img src="cope/6.png"></img></div>'
-        picList[6]='<div class="grid-item"><img src="cope/7.png"></img></div>'
+        picList[6]='<div class="grid-item"><img src="cope/7.jpg"></img></div>'
         picList[7]='<div class="grid-item"><img src="cope/8.png"></img></div>'
         picList[8]='<div class="grid-item"><img src="cope/9.png"></img></div>'
         picList[9]='<div class="grid-item"><img src="cope/10.png"></img></div>'
